@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
+  ['18728145304', 'ℙʀᴏ 𝕄ᴀɴ', true], 
+  ['436504405003999', '🅼︎🆁︎-𝗔ꪀꪮꪀꪗꪑꪮꪊ𝘴', true],
+  ['919567979878', '𝗠𝗥-𝗗𝗔𝗥𝗞', true], 
   ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
   ['233533763772', 'Abraham Dwamena2', true],
   ['233531910067', 'Abraham Dwamena3', true],
@@ -57,9 +57,9 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.botname = 'XLICON-V2'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
+global.packname = '𝗠𝗥-𝙽𝓲𝘬ꫝ𝓲ℓ' 
+global.author = '@MR-DARK' 
+global.menuvid = 'https://i.imgur.com/pGh5R7P.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
@@ -69,7 +69,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _XLICON IS LOADIND OWNED BY NIKHIL..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
